@@ -57,7 +57,7 @@ header .block {
 }
 header .block .logo {
   display: inline-block;
-  margin-bottom: 70px;
+  margin-bottom: 20px;
 }
 header .block h2 {
   margin-bottom: 15px;
@@ -222,7 +222,17 @@ footer .social-link ul li a {
 }
 #showcase {
   background-image: none;
+  margin-bottom: 40px;
+}
+.app-showcase {
+	padding: 20px 0 20px;
 }
 .app-showcase img{
-	width:140%;
+	width:60%;
+}
+.screenshots img {
+	width:100%;
+}
+.screenshots {
+	overflow: hidden;
 }
