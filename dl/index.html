@@ -3,6 +3,7 @@ var userAgent = navigator.userAgent || navigator.vendor || window.opera;
 
       // Windows Phone must come first because its UA also contains "Android"
     if (/windows phone/i.test(userAgent)) {
+        window.location.href='/';
         //return "Windows Phone";
     }
 
@@ -14,6 +15,7 @@ var userAgent = navigator.userAgent || navigator.vendor || window.opera;
     else if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
         window.location.href='itms-apps://itunes.apple.com/app/1136299528';
     }
-
-    return "unknown";
+	 else {
+        window.location.href='/';
+	}
 </script>
