@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>http://localhost:8000/blog/2014/07/07/another-sharepoint-post.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:8000/blog/2014/06/25/markdown-basics.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:8000/blog/2014/06/25/another-sample-markdown.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:8000/blog/2014/06/24/a-sample-pangram.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:8000/blog/2013/10/11/clearing-sharepoint-designer-cache.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:8000/blog/2013/04/20/dashboard-designer-cannot-connect-to-performancepoint.html</loc>
+    </url>
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:8000/404</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:8000/feed.xml</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:8000/blog/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:8000/archive/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:8000/search/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:8000/tags/SharePoint/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:8000/tags/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:8000/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:8000/about/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:8000/resume/</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:8000/sitemap.xml</loc>
+    </url>
+    
+    
+    
+</urlset>
