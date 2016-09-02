@@ -1,0 +1,19 @@
+<script type="text/javascript">
+var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+      // Windows Phone must come first because its UA also contains "Android"
+    if (/windows phone/i.test(userAgent)) {
+        //return "Windows Phone";
+    }
+
+    else if (/android/i.test(userAgent)) {
+        window.location.href='market://details?id=com.pugmrks.app.android';
+    }
+
+    // iOS detection from: http://stackoverflow.com/a/9039885/177710
+    else if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+        window.location.href='itms-apps://itunes.apple.com/app/1136299528';
+    }
+
+    return "unknown";
+</script>
