@@ -375,7 +375,7 @@ li.orange > a:focus {
 
 .btn-orange {
     color: #fff;
-    background: #da532c;
+    background: #007aff;
 }
 
 a.li8-green-link,
@@ -453,5 +453,5 @@ a.yellow-link:focus {
 a.orange-link,
 a.orange-link:hover,
 a.orange-link:focus {
-    color: #da532c;
+    color: #007aff;
 }
